@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Wiktor</h1>
 <h3 align="center">Java Backend Developer from Poland</h3>
 
-- 🧠 Currently enhancing my skills in Java Development, Spring Boot, and Testing
-- 💡 I plan to explore Kubernetes, Terraform, and Kafka in the near future
-- 🎓 Pursuing a degree in Computer Science Engineering at AGH University of Science and Technology in Cracow
+- 🧠 Currently enhancing my skills in **Java Development, Spring Boot and Testing**
+- 💡 I plan to explore **Kubernetes, Terraform and Kafka** in the near future
+- 🎓 Pursuing a degree in **Computer Science Engineering** at **AGH University of Science and Technology**  in Cracow
 - 📫 You can reach me at: [nowakwik21@gmail.com](mailto:nowakwik21@gmail.com)
-- 👨‍💻 Enthusiastic user of JetBrains tools
-- 🚀 Passionate about Web3 technologies
+- 👨‍💻 Enthusiastic user of **JetBrains** tools
+- 🚀 Passionate about **Web3** technologies
 
 
 <h3 align="left">Languages and Tools:</h3>
